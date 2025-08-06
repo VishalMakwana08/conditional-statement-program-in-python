@@ -18,6 +18,7 @@ Here is a well-structured list of practice questions for Conditional Statements 
 ✅ Print "Good Morning" if time is less than 12.
 
 🟡 Medium Level: If-Else and Elif Chains
+
 🔸 Find the largest among three numbers.
 
 🔸 Check whether a year is a leap year.
@@ -37,6 +38,7 @@ If hours > 40, pay overtime (1.5×).
 🔸 Check if the entered password matches a hardcoded one.
 
 🔴 Hard Level: Nested Ifs and Multiple Conditions
+
 🔹 Check if a triangle is equilateral, isosceles, or scalene using side lengths.
 
 🔹 Create a simple login system with username and password validation.
